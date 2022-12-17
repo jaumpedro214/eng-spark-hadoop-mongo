@@ -1,2 +1,5 @@
-# eng-spark-hadoop-mongo
-Data Engineering project using Spark, Hadoop and MongoDB
+# Data Engineering with Spark, Hadoop and MongoDB
+
+This repository contains a Data Engineering project using Spark, Hadoop and MongoDB.
+
+
